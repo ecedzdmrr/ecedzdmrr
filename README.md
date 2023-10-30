@@ -12,12 +12,9 @@
 "_F*ck realism I want magic!_" 🔮🪄
 ![](images/witchDash.png)
 
-#### Social
+<!-- #### Social
 
-[![](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)](https://discord.com/invite/Huntere#8177)
-
-
-<!-- [![](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)](https://discord.com/invite/Huntere#8177)  [![](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](...)  [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](...) -->
+[![](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)](https://discord.com/invite/...)  [![](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](...)  [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](...) -->
 
 ### Language and Tools
 
