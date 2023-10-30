@@ -16,7 +16,7 @@
 
 [![](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)](https://discord.com/invite/...)  [![](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](...)  [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](...) -->
 
-### Language and Tools
+### Languages and Tools
 
 #### Languages
 
