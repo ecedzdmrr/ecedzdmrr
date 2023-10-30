@@ -1,8 +1,8 @@
 ## Hi there, It's Ece ✌🏻
 
-### About Me
-
 ![](/images/cat.png)
+
+### About Me
 
 - 🏢 I'm currently working on **Flutter, Dart**
 - 🌱 I'm currently learning **HTML & CSS, Blender**
