@@ -7,14 +7,11 @@
 - 🏢 I'm currently working on **Flutter, Dart**
 - 🌱 I'm currently learning **HTML & CSS, Blender**
 - 👯 I’m looking to collaborate for **Cross-Platform Projects**
+- 📫 Reach me: **[LinkedIn][1]**
 - 😄 Pronouns: Ec the Witch
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter 
 "_F*ck realism I want magic!_" 🔮🪄
 ![](images/witchDash.png)
-
-<!-- #### Social
-
-[![](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)](https://discord.com/invite/...)  [![](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](...)  [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](...) -->
 
 ### Languages and Tools
 
@@ -34,3 +31,6 @@
 
 #### My Github Stats:
 ![Ec's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecedzdmrr&show_icons=true&theme=blueberry)
+
+
+[1]: https://www.linkedin.com/in/ecedzdmrr/
