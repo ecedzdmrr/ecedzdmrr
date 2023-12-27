@@ -7,7 +7,7 @@
 - 🏢 I'm currently working on **Flutter, Dart**
 - 🌱 I'm currently learning **HTML & CSS, Blender**
 - 👯 I’m looking to collaborate for **Cross-Platform Projects**
-- 📫 Reach me: **[LinkedIn][1]**
+- 📫 Reach me: **[LinkedIn][1]** - **[Twitter][2]** - **[Medium][3]**
 - 😄 Pronouns: Ec the Witch
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter 
 "_F*ck realism I want magic!_" 🔮🪄
@@ -34,3 +34,5 @@
 
 
 [1]: https://www.linkedin.com/in/ecedzdmrr/
+[2]: https://twitter.com/ecedzdmrr
+[3]: https://medium.com/@ecedzdmrr
